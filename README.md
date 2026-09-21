@@ -1,6 +1,6 @@
 # Pyrite KB Demo
 
-Demo knowledge bases for [Pyrite](https://github.com/markramm/pyrite) — a knowledge base management system for structured intellectual research.
+Demo knowledge bases for [Pyrite](https://github.com/pyrite-wiki/pyrite) — a knowledge base management system for structured intellectual research.
 
 ## Knowledge Bases
 
