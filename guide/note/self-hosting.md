@@ -22,7 +22,7 @@ No server needed. Everything runs locally with SQLite.
 ## Docker (recommended for servers)
 
 ```bash
-git clone https://github.com/markramm/pyrite.git && cd pyrite
+git clone https://github.com/pyrite-wiki/pyrite.git && cd pyrite
 bash deploy/selfhost/setup.sh kb.example.com
 ```
 

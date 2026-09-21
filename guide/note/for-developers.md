@@ -61,4 +61,4 @@ results = search.search("query", kb_name="my-kb", mode="hybrid")
 - **Plugins**: Python entry points, 15-method protocol
 - **Web UI**: SvelteKit + Svelte 5, Cytoscape.js for graph, Tiptap for editing
 
-Source: [github.com/markramm/pyrite](https://github.com/markramm/pyrite)
+Source: [github.com/pyrite-wiki/pyrite](https://github.com/pyrite-wiki/pyrite)

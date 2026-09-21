@@ -47,6 +47,6 @@ All ADRs are browsable in the pyrite KB on this demo site.
 
 ## Open source
 
-Pyrite is MIT licensed. Source at [github.com/markramm/pyrite](https://github.com/markramm/pyrite).
+Pyrite is MIT licensed. Source at [github.com/pyrite-wiki/pyrite](https://github.com/pyrite-wiki/pyrite).
 
-Contributions welcome — see [CONTRIBUTING.md](https://github.com/markramm/pyrite/blob/main/CONTRIBUTING.md).
+Contributions welcome — see [CONTRIBUTING.md](https://github.com/pyrite-wiki/pyrite/blob/main/CONTRIBUTING.md).
