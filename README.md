@@ -1,6 +1,6 @@
 # Pyrite KB Demo
 
-Demo knowledge bases for [Pyrite](https://github.com/markramm/pyrite) — a knowledge base management system for structured intellectual research.
+Demo knowledge bases for [Pyrite](https://github.com/pyrite-wiki/pyrite) — a knowledge base management system for structured intellectual research.
 
 ## Knowledge Bases
 
@@ -48,4 +48,6 @@ Each KB directory contains:
 
 ## License
 
-Content is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+The entries in this repository are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (the full text is in `LICENSE`): you may share and adapt them, including commercially, with attribution and under the same license.
+
+Quotations from the works these KBs describe remain the property of their authors and publishers and are included for commentary under fair use; the license covers this repository's own text, not the quoted works.
