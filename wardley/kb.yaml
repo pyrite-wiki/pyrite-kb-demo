@@ -43,6 +43,17 @@ evaluation_rubric:
   - "Career claims note source and certainty level where details are ambiguous"
 
 types:
+  # Declared 2026-11-11: pyrite 0.26 removed the cascade extension (#953) that used to declare
+  # these types; without a declaration a create of them is refused UNDECLARED_TYPE.
+  actor:
+    description: "A person in the capture narrative (formerly the cascade extension's actor type)"
+    subdirectory: people
+  cascade_org:
+    description: "An organization (formerly the cascade extension's cascade_org type)"
+    subdirectory: organizations
+  cascade_event:
+    description: "An event (formerly the cascade extension's cascade_event type)"
+    subdirectory: events
   writing:
     description: "A work by or substantially involving Simon Wardley — book, paper, blog post, talk, or presentation"
     subdirectory: writings
